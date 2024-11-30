@@ -1,0 +1,9 @@
+El código no funciona si la base 
+de datos mongodb se encuentra fuera 
+del equipo local, si se intenta 
+realizar la conexión esto la 
+reconoce, funciona, pero no imprime 
+ningún dato en la consola ni en 
+la página index, así que aceptó por 
+una base de datos de tipo JSON de 
+manera local en las carpetas "data".
